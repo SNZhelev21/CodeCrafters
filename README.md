@@ -38,4 +38,4 @@ Program that helps people with studying and learning new things.
 
 - <a href="https://github.com/SNZhelev21"> Svetoslav Zhelev (Backend) </a><br>
 ##
-<h1 align="center" >Enjoy our learning!</h1>
+<h1 align="center" >Enjoy studying with our program!</h1>
