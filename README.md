@@ -1,7 +1,6 @@
 <h1 align="center" >CodeCrafters</h1>
 <br>
 <p align="center">
-<img src="" alt="logo" height="450" width="450"> 
 </p>
 
 <br>
