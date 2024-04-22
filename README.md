@@ -1,6 +1,4 @@
 <h1 align="center" >CodeCrafters</h1>
-<br>
-<p align="center">
 </p>
 
 <br>
